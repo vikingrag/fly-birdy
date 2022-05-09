@@ -74,7 +74,7 @@ function draw() {
 		// Создаем функцию перезапуска игры
 		if (pipe[i].x == 5) {
 			score++;
-			score_audio.play();
+			//score_audio.play();
 		}
 	}
 	// Рисуем обьекты в игре
