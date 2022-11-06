@@ -1,14 +1,19 @@
-# **fly-bird-game-js**
+# Game "Fly Bird" in JavaScript
 
-## This is a game "fly-bird-game-js" written in JavaScript, the game uses functions and methods to create games in 2G format
-___
+Game written in pure JavaScript. Functions and methods used to create game in 2G format.  
 
+:dodo: **[LIVE DEMO](vikingrag.github.io/game-fly-bird-js/)**
 
+![flybird](https://user-images.githubusercontent.com/100153634/200189030-8e3e865c-1ff8-4fa0-b002-9ad1a614bd17.gif)
 
-## Project start
+### Installation
 
-### To start the project, just follow the link:
-[vikingrag.github.io/fly-bird-game-js/](vikingrag.github.io/fly-bird-game-js/)
-### Download the project from your computer using the command that you need to register in the terminal:
-git clone https://github.com/vikingrag/fly-bird-game-js.git
-### after downloading, open the **index.html** file in your browser
+```bash
+# download the project to your computer using git clone command
+git clone https://github.com/vikingrag/game-fly-bird-js.git
+
+# open project
+cd game-fly-bird-js
+
+# then open `index.html` file in your browser
+```
